@@ -32,6 +32,6 @@ numeros.append(numero_inicial())
 numeros = sequencia(Iteracoes, numeros)
 
 
-print(numeros)
+print("Sequencia: ", numeros)
 
 
